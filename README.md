@@ -16,3 +16,5 @@ rede_neural: Implementação de um algoritmo simples de rede neural
 analise_de_trafego: pequeno script que recebe informações de tráfego e calcula as melhores rotas
 
 gps_data: informações de gps
+
+snakeGame: Implementação simples do jogo da cobrinha
